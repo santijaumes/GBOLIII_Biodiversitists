@@ -24,4 +24,4 @@ Make sure you have internet access for package installation.
 Citation
 If using this script, please cite the associated publication:
 
-Awad et al. Fresh eyes on biodiversity discover a thousand and more species new to Germany
+Awad et al. Through fresh eyes—vast biodiversity discovery in the shadow of insect decline
