@@ -5,7 +5,7 @@ GBOL Supplementary Material
 GBOL_Supplementary/
 ├── data/
 │   ├── otus_v4.xlsx
-│   ├── April_GBOLIII_numbers.csv
+│   ├── GBOL_estimators.csv
 ├── plots/
 ├── script.R
 ├── README.md
