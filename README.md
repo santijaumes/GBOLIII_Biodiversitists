@@ -60,8 +60,8 @@ otus_v4.xlsx — Excel workbook with two sheets (“Diptera” and “Hymenopter
 Row 1: family names
 Row 3: SpeciesIdentifier abundances
 Row 4: ASAP abundances
-April_GBOLIII_numbers.csv — CSV file containing order-level diversity estimators and standard errors used for plotting summary figures.
-Required columns: Order, Type, Total_Value, Chao1_spID, Chao1_ASAP, ACE_spID, ACE_ASAP, and their standard-error columns.
+GBOL_estimators.csv — CSV file containing order-level diversity estimators and standard errors used for plotting summary figures.
+Required columns: Order, Taxon, N_sequences, Checklist, spID, ASAP, min_new_Germany, max_new_Germany, max_min_dif, Chao1_spID, Chao1_ASAP, ACE_spID, ACE_ASAP, and their standard-error columns.
 
 *Output files*
 
